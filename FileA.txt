@@ -1,4 +1,2 @@
 This is FileA
-This is change in File A.
-Making another change
-change after taggin
+This is new change
